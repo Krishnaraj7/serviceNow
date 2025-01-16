@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number">
+    <sys_number action="DELETE">
+        <category display_value="" name="x_1583817_it_ass_0_asset_request">x_1583817_it_ass_0_asset_request</category>
+        <maximum_digits>10</maximum_digits>
+        <number>1000</number>
+        <prefix>AR00</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-24 07:29:51</sys_created_on>
+        <sys_id>05bc28ebc3ead610dc23bb0d050131ba</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>AR00</sys_name>
+        <sys_package display_value="IT Asset Management" source="x_1583817_it_ass_0">eaef5d9bc32e9610dc23bb0d050131d8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IT Asset Management">eaef5d9bc32e9610dc23bb0d050131d8</sys_scope>
+        <sys_update_name>sys_number_05bc28ebc3ead610dc23bb0d050131ba</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-24 07:34:04</sys_updated_on>
+    </sys_number>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="IT Asset Management">eaef5d9bc32e9610dc23bb0d050131d8</application>
+        <file_path/>
+        <instance_id>6c6443bcdbcef150ae4c9027c5961911</instance_id>
+        <instance_name>dev191132</instance_name>
+        <name>sys_number_05bc28ebc3ead610dc23bb0d050131ba</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number"><sys_number action="INSERT_OR_UPDATE"><category display_value="" name="x_1583817_it_ass_0_asset_request">x_1583817_it_ass_0_asset_request</category><maximum_digits>10</maximum_digits><number>1000</number><prefix>AR00</prefix><sys_class_name>sys_number</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-12-24 07:29:51</sys_created_on><sys_id>05bc28ebc3ead610dc23bb0d050131ba</sys_id><sys_mod_count>2</sys_mod_count><sys_name>AR00</sys_name><sys_package display_value="IT Asset Management" source="x_1583817_it_ass_0">eaef5d9bc32e9610dc23bb0d050131d8</sys_package><sys_policy/><sys_scope display_value="IT Asset Management">eaef5d9bc32e9610dc23bb0d050131d8</sys_scope><sys_update_name>sys_number_05bc28ebc3ead610dc23bb0d050131ba</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-12-24 07:34:04</sys_updated_on></sys_number></record_update>]]></payload>
+        <payload_hash>-1338073902</payload_hash>
+        <record_name>AR00</record_name>
+        <reverted_from/>
+        <source>65a3e5dfc32e9610dc23bb0d050131ae</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-24 07:34:04</sys_created_on>
+        <sys_id>cfadac2fc3ead610dc23bb0d05013165</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>193f79654e80000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-24 07:34:04</sys_updated_on>
+        <type>Number</type>
+        <update_guid>87adac2f84ead6100370e3bea4f65e65</update_guid>
+        <update_guid_history>87adac2f84ead6100370e3bea4f65e65:-1338073902,3e8da82f5aead610d60cee5661d82b54:-1238014254,ddbc28eb72ead6103526ab28345b12c1:-1338073902</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-24 07:50:09</sys_created_on>
+        <sys_db_object display_value="" name="sys_number">sys_number</sys_db_object>
+        <sys_id>7406174dcdb6436d9de1f92daccf07f1</sys_id>
+        <sys_metadata>05bc28ebc3ead610dc23bb0d050131ba</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>AR00</sys_name>
+        <sys_package display_value="IT Asset Management" source="x_1583817_it_ass_0">eaef5d9bc32e9610dc23bb0d050131d8</sys_package>
+        <sys_parent display_value="">81362d5fc32e9610dc23bb0d050131a5</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="IT Asset Management">eaef5d9bc32e9610dc23bb0d050131d8</sys_scope>
+        <sys_scope_delete display_value="">50bac70a5f3c4c00b8e47111e0900000</sys_scope_delete>
+        <sys_update_name>sys_number_05bc28ebc3ead610dc23bb0d050131ba</sys_update_name>
+        <sys_update_version display_value="sys_number_05bc28ebc3ead610dc23bb0d050131ba">cfadac2fc3ead610dc23bb0d05013165</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-24 07:50:09</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

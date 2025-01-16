@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_include">
+    <sys_script_include action="DELETE">
+        <access>package_private</access>
+        <active>true</active>
+        <api_name>x_1583817_it_ass_0.createRecord</api_name>
+        <caller_access/>
+        <client_callable>false</client_callable>
+        <description/>
+        <mobile_callable>false</mobile_callable>
+        <name>createRecord</name>
+        <sandbox_callable>false</sandbox_callable>
+        <script><![CDATA[var createRecord = Class.create();
+createRecord.prototype = {
+    initialize: function() {
+    },
+
+	cmdbTable : function(){
+		var assetType = this.getParameter("typeOfAsset");
+		
+
+	},
+
+    type: 'createRecord'
+};]]></script>
+        <sys_class_name>sys_script_include</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-30 15:37:31</sys_created_on>
+        <sys_id>05f25961c3fa1210dc23bb0d050131ec</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>createRecord</sys_name>
+        <sys_package display_value="IT Asset Management" source="x_1583817_it_ass_0">eaef5d9bc32e9610dc23bb0d050131d8</sys_package>
+        <sys_policy>read</sys_policy>
+        <sys_scope display_value="IT Asset Management">eaef5d9bc32e9610dc23bb0d050131d8</sys_scope>
+        <sys_update_name>sys_script_include_05f25961c3fa1210dc23bb0d050131ec</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-30 15:37:31</sys_updated_on>
+    </sys_script_include>
+    <sys_es_latest_script action="DELETE">
+        <id>05f25961c3fa1210dc23bb0d050131ec</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-30 15:37:31</sys_created_on>
+        <sys_id>4fd51da1c33a1210dc23bb0d0501310c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-30 15:37:31</sys_updated_on>
+        <table>sys_script_include</table>
+        <use_es_latest>true</use_es_latest>
+    </sys_es_latest_script>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="IT Asset Management">eaef5d9bc32e9610dc23bb0d050131d8</application>
+        <file_path/>
+        <instance_id>6c6443bcdbcef150ae4c9027c5961911</instance_id>
+        <instance_name>dev191132</instance_name>
+        <name>sys_script_include_05f25961c3fa1210dc23bb0d050131ec</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_script_include"&gt;&lt;sys_script_include action="INSERT_OR_UPDATE"&gt;&lt;access&gt;package_private&lt;/access&gt;&lt;active&gt;true&lt;/active&gt;&lt;api_name&gt;x_1583817_it_ass_0.createRecord&lt;/api_name&gt;&lt;caller_access/&gt;&lt;client_callable&gt;false&lt;/client_callable&gt;&lt;description/&gt;&lt;mobile_callable&gt;false&lt;/mobile_callable&gt;&lt;name&gt;createRecord&lt;/name&gt;&lt;sandbox_callable&gt;false&lt;/sandbox_callable&gt;&lt;script&gt;&lt;![CDATA[var createRecord = Class.create();
+createRecord.prototype = {
+    initialize: function() {
+    },
+
+	cmdbTable : function(){
+		var assetType = this.getParameter("typeOfAsset");
+		
+
+	},
+
+    type: 'createRecord'
+};]]&gt;&lt;/script&gt;&lt;sys_class_name&gt;sys_script_include&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2024-12-30 15:37:31&lt;/sys_created_on&gt;&lt;sys_id&gt;05f25961c3fa1210dc23bb0d050131ec&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;createRecord&lt;/sys_name&gt;&lt;sys_package display_value="IT Asset Management" source="x_1583817_it_ass_0"&gt;eaef5d9bc32e9610dc23bb0d050131d8&lt;/sys_package&gt;&lt;sys_policy&gt;read&lt;/sys_policy&gt;&lt;sys_scope display_value="IT Asset Management"&gt;eaef5d9bc32e9610dc23bb0d050131d8&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_script_include_05f25961c3fa1210dc23bb0d050131ec&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2024-12-30 15:37:31&lt;/sys_updated_on&gt;&lt;/sys_script_include&gt;&lt;sys_es_latest_script action="INSERT_OR_UPDATE"&gt;&lt;id&gt;05f25961c3fa1210dc23bb0d050131ec&lt;/id&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2024-12-30 15:37:31&lt;/sys_created_on&gt;&lt;sys_id&gt;4fd51da1c33a1210dc23bb0d0501310c&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2024-12-30 15:37:31&lt;/sys_updated_on&gt;&lt;table&gt;sys_script_include&lt;/table&gt;&lt;use_es_latest&gt;true&lt;/use_es_latest&gt;&lt;/sys_es_latest_script&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>692464904</payload_hash>
+        <record_name>createRecord</record_name>
+        <reverted_from/>
+        <source>65a3e5dfc32e9610dc23bb0d050131ae</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-30 15:37:32</sys_created_on>
+        <sys_id>17d51165c3fa1210dc23bb0d050131bc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19418371b550000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-30 15:37:32</sys_updated_on>
+        <type>Script Include</type>
+        <update_guid>1bd5116544fa121071c5e4a6f89c73bb</update_guid>
+        <update_guid_history>1bd5116544fa121071c5e4a6f89c73bb:692464904</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-30 15:38:14</sys_created_on>
+        <sys_db_object display_value="" name="sys_script_include">sys_script_include</sys_db_object>
+        <sys_id>6809387ef3ec4d128506184979f16da4</sys_id>
+        <sys_metadata>05f25961c3fa1210dc23bb0d050131ec</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>createRecord</sys_name>
+        <sys_package display_value="IT Asset Management" source="x_1583817_it_ass_0">eaef5d9bc32e9610dc23bb0d050131d8</sys_package>
+        <sys_parent/>
+        <sys_policy>read</sys_policy>
+        <sys_scope display_value="IT Asset Management">eaef5d9bc32e9610dc23bb0d050131d8</sys_scope>
+        <sys_scope_delete display_value="">50bac70a5f3c4c00b8e47111e0900000</sys_scope_delete>
+        <sys_update_name>sys_script_include_05f25961c3fa1210dc23bb0d050131ec</sys_update_name>
+        <sys_update_version display_value="sys_script_include_05f25961c3fa1210dc23bb0d050131ec">17d51165c3fa1210dc23bb0d050131bc</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-30 15:38:14</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

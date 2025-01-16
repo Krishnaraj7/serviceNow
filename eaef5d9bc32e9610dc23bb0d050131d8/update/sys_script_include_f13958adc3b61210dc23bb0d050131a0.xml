@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_include">
+    <sys_script_include action="INSERT_OR_UPDATE">
+        <access>package_private</access>
+        <active>true</active>
+        <api_name>x_1583817_it_ass_0.ChangeShortDescwithPri</api_name>
+        <caller_access/>
+        <client_callable>true</client_callable>
+        <description/>
+        <mobile_callable>false</mobile_callable>
+        <name>ChangeShortDescwithPri</name>
+        <sandbox_callable>false</sandbox_callable>
+        <script><![CDATA[var ChangeShortDescwithPri = Class.create();
+ChangeShortDescwithPri.prototype = Object.extendsObject(global.AbstractAjaxProcessor, {
+
+	changeShort : function(){
+		var newValue = this.getParameter("newValue");
+		return newValue;
+
+	},
+
+    type: 'ChangeShortDescwithPri'
+});]]></script>
+        <sys_class_name>sys_script_include</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-30 11:25:30</sys_created_on>
+        <sys_id>f13958adc3b61210dc23bb0d050131a0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ChangeShortDescwithPri</sys_name>
+        <sys_package display_value="IT Asset Management" source="x_1583817_it_ass_0">eaef5d9bc32e9610dc23bb0d050131d8</sys_package>
+        <sys_policy>read</sys_policy>
+        <sys_scope display_value="IT Asset Management">eaef5d9bc32e9610dc23bb0d050131d8</sys_scope>
+        <sys_update_name>sys_script_include_f13958adc3b61210dc23bb0d050131a0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-30 11:25:30</sys_updated_on>
+    </sys_script_include>
+    <sys_es_latest_script action="INSERT_OR_UPDATE">
+        <id>f13958adc3b61210dc23bb0d050131a0</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-30 11:25:30</sys_created_on>
+        <sys_id>e32c946dc3b61210dc23bb0d050131e6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-30 11:25:30</sys_updated_on>
+        <table>sys_script_include</table>
+        <use_es_latest>true</use_es_latest>
+    </sys_es_latest_script>
+</record_update>

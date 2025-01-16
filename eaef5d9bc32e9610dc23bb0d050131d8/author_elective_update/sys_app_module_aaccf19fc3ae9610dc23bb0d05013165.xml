@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="Request IT Asset">1a0c399fc3ae9610dc23bb0d05013170</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>My Open Asset Requests</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_1583817_it_ass_0_asset_request</name>
+        <order>200</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <require_confirmation>true</require_confirmation>
+        <roles/>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-23 18:41:51</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>aaccf19fc3ae9610dc23bb0d05013165</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>My Open Asset Requests</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="IT Asset Management" source="x_1583817_it_ass_0">eaef5d9bc32e9610dc23bb0d050131d8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IT Asset Management">eaef5d9bc32e9610dc23bb0d050131d8</sys_scope>
+        <sys_update_name>sys_app_module_aaccf19fc3ae9610dc23bb0d05013165</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-23 18:41:51</sys_updated_on>
+        <timeline_page/>
+        <title>My Open Asset Requests</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="IT Asset Management">eaef5d9bc32e9610dc23bb0d050131d8</application>
+        <file_path/>
+        <instance_id>6c6443bcdbcef150ae4c9027c5961911</instance_id>
+        <instance_name>dev191132</instance_name>
+        <name>sys_app_module_aaccf19fc3ae9610dc23bb0d05013165</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="Request IT Asset">1a0c399fc3ae9610dc23bb0d05013170</application><assessment/><device_type/><filter/><hint/><homepage/><image/><link_type>LIST</link_type><map_page/><mobile_title>My Open Asset Requests</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>x_1583817_it_ass_0_asset_request</name><order>200</order><override_menu_roles>false</override_menu_roles><query/><report/><require_confirmation>true</require_confirmation><roles/><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-12-23 18:41:51</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>aaccf19fc3ae9610dc23bb0d05013165</sys_id><sys_mod_count>0</sys_mod_count><sys_name>My Open Asset Requests</sys_name><sys_overrides/><sys_package display_value="IT Asset Management" source="x_1583817_it_ass_0">eaef5d9bc32e9610dc23bb0d050131d8</sys_package><sys_policy/><sys_scope display_value="IT Asset Management">eaef5d9bc32e9610dc23bb0d050131d8</sys_scope><sys_update_name>sys_app_module_aaccf19fc3ae9610dc23bb0d05013165</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-12-23 18:41:51</sys_updated_on><timeline_page/><title>My Open Asset Requests</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>-33401301</payload_hash>
+        <record_name>My Open Asset Requests</record_name>
+        <reverted_from/>
+        <source>65a3e5dfc32e9610dc23bb0d050131ae</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-23 18:41:51</sys_created_on>
+        <sys_id>cbecfd5fc3ae9610dc23bb0d050131ad</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>193f4d358000000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-23 18:41:51</sys_updated_on>
+        <type>Module</type>
+        <update_guid>cfecfd5f9cae96107f86ee9694e054ac</update_guid>
+        <update_guid_history>cfecfd5f9cae96107f86ee9694e054ac:-33401301</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="My Open Asset Requests">72217cefc3ead610dc23bb0d050131fb</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-24 07:49:21</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>3903fa50b19b45fa8ac505e7d9d61f64</sys_id>
+        <sys_metadata>aaccf19fc3ae9610dc23bb0d05013165</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>My Open Asset Requests</sys_name>
+        <sys_package display_value="IT Asset Management" source="x_1583817_it_ass_0">eaef5d9bc32e9610dc23bb0d050131d8</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="IT Asset Management">eaef5d9bc32e9610dc23bb0d050131d8</sys_scope>
+        <sys_scope_delete display_value="">50bac70a5f3c4c00b8e47111e0900000</sys_scope_delete>
+        <sys_update_name>sys_app_module_aaccf19fc3ae9610dc23bb0d05013165</sys_update_name>
+        <sys_update_version display_value="sys_app_module_aaccf19fc3ae9610dc23bb0d05013165">cbecfd5fc3ae9610dc23bb0d050131ad</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-24 07:49:21</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
